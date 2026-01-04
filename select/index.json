@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ワンルームデイト",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2026-01-04T14:05:18.287873Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワンルームデイト",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/01_ワンルームデイト_マカロニえんぴつ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワンルームデイト",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/02_ワンルームデイト_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワンルームデイト",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_ワンルームデイト_マカロニえんぴつ.txt"
+    }
+  ]
+}
